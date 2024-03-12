@@ -4,7 +4,8 @@ public class Sample {
 	
 	public static void main(String[] args) {
 		System.out.println("Day 1");
-		System.out.println("Repository to local floder and work place");
+		System.out.println("Day 2");
+		system.out.println("Day 3");
 		
 	}
 	
